@@ -14,6 +14,10 @@ const options = [
     {
         label: 'Hindi',
         value: 'hi'
+    },
+    {
+        label: 'English',
+        value: 'en'
     }
 ];
 
